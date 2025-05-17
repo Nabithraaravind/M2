@@ -198,4 +198,7 @@ d.	After the loop, print the factorial value.
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
+
+# Name: A.Nabithra
+# Register Number: 212224230172
  
